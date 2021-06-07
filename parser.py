@@ -3,7 +3,7 @@ import obonet
 from collections import defaultdict
 import re
 import pandas as pd
-
+import os
 
 def id_gene(input_id,assoication_df):
     """
